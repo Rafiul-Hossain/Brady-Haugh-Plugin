@@ -1,0 +1,330 @@
+[05-Nov-2025 04:09:17 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\wordpress-brady\wp-includes\class-wpdb.php on line 1988
+[05-Nov-2025 04:11:17 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\wordpress-brady\wp-includes\class-wpdb.php on line 1988
+[05-Nov-2025 04:13:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\wordpress-brady\wp-includes\class-wpdb.php on line 1988
+[05-Nov-2025 04:15:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\wordpress-brady\wp-includes\class-wpdb.php on line 1988
+[05-Nov-2025 04:17:20 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\wordpress-brady\wp-includes\class-wpdb.php on line 1988
+[05-Nov-2025 04:42:29 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\wordpress-brady\wp-includes\class-wpdb.php on line 1988
+[05-Nov-2025 04:44:30 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\wordpress-brady\wp-includes\class-wpdb.php on line 1988
+[05-Nov-2025 04:46:31 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\wordpress-brady\wp-includes\class-wpdb.php on line 1988
+[05-Nov-2025 04:48:32 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\wordpress-brady\wp-includes\class-wpdb.php on line 1988
+[05-Nov-2025 04:50:33 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\wordpress-brady\wp-includes\class-wpdb.php on line 1988
+[05-Nov-2025 04:52:05 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\wordpress-brady\wp-includes\class-wpdb.php on line 1988
+[05-Nov-2025 04:54:05 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\wordpress-brady\wp-includes\class-wpdb.php on line 1988
+[05-Nov-2025 04:56:06 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\wordpress-brady\wp-includes\class-wpdb.php on line 1988
+[05-Nov-2025 04:58:07 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\wordpress-brady\wp-includes\class-wpdb.php on line 1988
+[05-Nov-2025 05:00:08 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\wordpress-brady\wp-includes\class-wpdb.php on line 1988
+[05-Nov-2025 05:01:09 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\wordpress-brady\wp-includes\class-wpdb.php on line 1988
+[05-Nov-2025 05:02:10 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\wordpress-brady\wp-includes\class-wpdb.php on line 1988
+[05-Nov-2025 05:04:09 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\wordpress-brady\wp-includes\class-wpdb.php on line 1988
+[05-Nov-2025 05:05:10 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\wordpress-brady\wp-includes\class-wpdb.php on line 1988
+[05-Nov-2025 05:06:11 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\wordpress-brady\wp-includes\class-wpdb.php on line 1988
+[05-Nov-2025 05:08:12 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\wordpress-brady\wp-includes\class-wpdb.php on line 1988
+[05-Nov-2025 05:10:13 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\wordpress-brady\wp-includes\class-wpdb.php on line 1988
+[05-Nov-2025 05:12:14 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\wordpress-brady\wp-includes\class-wpdb.php on line 1988
+[05-Nov-2025 05:14:15 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\wordpress-brady\wp-includes\class-wpdb.php on line 1988
+[05-Nov-2025 05:18:13 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\wordpress-brady\wp-includes\class-wpdb.php on line 1988
+[05-Nov-2025 05:18:16 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\wordpress-brady\wp-includes\class-wpdb.php on line 1988
+[05-Nov-2025 08:26:51 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\wordpress-brady\wp-includes\class-wpdb.php on line 1988
+[05-Nov-2025 08:54:41 UTC] Automatic updates starting...
+[05-Nov-2025 08:54:43 UTC] Automatic updates complete.
+[05-Nov-2025 08:54:48 UTC] PHP Warning:  require_once(C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/app/entries/TableCreator.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php on line 7
+[05-Nov-2025 08:54:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/app/entries/TableCreator.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php:7
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\tapedb_plugin_backend.php(18): require_once()
+#1 C:\xampp\htdocs\wordpress-brady\wp-admin\includes\plugin.php(2387): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress-brady\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('tapedb_plugin_b...')
+#3 C:\xampp\htdocs\wordpress-brady\wp-admin\plugins.php(60): activate_plugin('tapedb_plugin_b...', 'http://localhos...', false)
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php on line 7
+[05-Nov-2025 08:57:05 UTC] PHP Warning:  require_once(C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/app/entries/TableCreator.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php on line 7
+[05-Nov-2025 08:57:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/app/entries/TableCreator.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php:7
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\tapedb_plugin_backend.php(18): require_once()
+#1 C:\xampp\htdocs\wordpress-brady\wp-admin\includes\plugin.php(2387): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress-brady\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('tapedb_plugin_b...')
+#3 C:\xampp\htdocs\wordpress-brady\wp-admin\plugins.php(60): activate_plugin('tapedb_plugin_b...', 'http://localhos...', false)
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php on line 7
+[05-Nov-2025 08:57:07 UTC] PHP Warning:  require_once(C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/app/entries/TableCreator.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php on line 7
+[05-Nov-2025 08:57:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/app/entries/TableCreator.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php:7
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\tapedb_plugin_backend.php(18): require_once()
+#1 C:\xampp\htdocs\wordpress-brady\wp-admin\includes\plugin.php(2387): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress-brady\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('tapedb_plugin_b...')
+#3 C:\xampp\htdocs\wordpress-brady\wp-admin\plugins.php(60): activate_plugin('tapedb_plugin_b...', 'http://localhos...', false)
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php on line 7
+[05-Nov-2025 08:57:08 UTC] PHP Warning:  require_once(C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/app/entries/TableCreator.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php on line 7
+[05-Nov-2025 08:57:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/app/entries/TableCreator.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php:7
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\tapedb_plugin_backend.php(18): require_once()
+#1 C:\xampp\htdocs\wordpress-brady\wp-admin\includes\plugin.php(2387): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress-brady\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('tapedb_plugin_b...')
+#3 C:\xampp\htdocs\wordpress-brady\wp-admin\plugins.php(60): activate_plugin('tapedb_plugin_b...', 'http://localhos...', false)
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php on line 7
+[05-Nov-2025 08:57:09 UTC] PHP Warning:  require_once(C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/app/entries/TableCreator.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php on line 7
+[05-Nov-2025 08:57:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/app/entries/TableCreator.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php:7
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\tapedb_plugin_backend.php(18): require_once()
+#1 C:\xampp\htdocs\wordpress-brady\wp-admin\includes\plugin.php(2387): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress-brady\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('tapedb_plugin_b...')
+#3 C:\xampp\htdocs\wordpress-brady\wp-admin\plugins.php(60): activate_plugin('tapedb_plugin_b...', 'http://localhos...', false)
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php on line 7
+[05-Nov-2025 08:57:10 UTC] PHP Warning:  require_once(C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/app/entries/TableCreator.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php on line 7
+[05-Nov-2025 08:57:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/app/entries/TableCreator.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php:7
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\tapedb_plugin_backend.php(18): require_once()
+#1 C:\xampp\htdocs\wordpress-brady\wp-admin\includes\plugin.php(2387): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress-brady\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('tapedb_plugin_b...')
+#3 C:\xampp\htdocs\wordpress-brady\wp-admin\plugins.php(60): activate_plugin('tapedb_plugin_b...', 'http://localhos...', false)
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php on line 7
+[05-Nov-2025 09:00:35 UTC] PHP Warning:  require_once(C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/app/entries/TableCreator.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php on line 7
+[05-Nov-2025 09:00:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/app/entries/TableCreator.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php:7
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\tapedb_plugin_backend.php(18): require_once()
+#1 C:\xampp\htdocs\wordpress-brady\wp-admin\includes\plugin.php(2387): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress-brady\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('tapedb_plugin_b...')
+#3 C:\xampp\htdocs\wordpress-brady\wp-admin\plugins.php(60): activate_plugin('tapedb_plugin_b...', 'http://localhos...', false)
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php on line 7
+[05-Nov-2025 09:00:37 UTC] PHP Warning:  require_once(C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/app/entries/TableCreator.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php on line 7
+[05-Nov-2025 09:00:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/app/entries/TableCreator.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php:7
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\tapedb_plugin_backend.php(18): require_once()
+#1 C:\xampp\htdocs\wordpress-brady\wp-admin\includes\plugin.php(2387): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress-brady\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('tapedb_plugin_b...')
+#3 C:\xampp\htdocs\wordpress-brady\wp-admin\plugins.php(60): activate_plugin('tapedb_plugin_b...', 'http://localhos...', false)
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php on line 7
+[05-Nov-2025 09:00:38 UTC] PHP Warning:  require_once(C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/app/entries/TableCreator.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php on line 7
+[05-Nov-2025 09:00:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/app/entries/TableCreator.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php:7
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\tapedb_plugin_backend.php(18): require_once()
+#1 C:\xampp\htdocs\wordpress-brady\wp-admin\includes\plugin.php(2387): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress-brady\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('tapedb_plugin_b...')
+#3 C:\xampp\htdocs\wordpress-brady\wp-admin\plugins.php(60): activate_plugin('tapedb_plugin_b...', 'http://localhos...', false)
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php on line 7
+[05-Nov-2025 09:00:38 UTC] PHP Warning:  require_once(C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/app/entries/TableCreator.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php on line 7
+[05-Nov-2025 09:00:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/app/entries/TableCreator.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php:7
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\tapedb_plugin_backend.php(18): require_once()
+#1 C:\xampp\htdocs\wordpress-brady\wp-admin\includes\plugin.php(2387): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress-brady\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('tapedb_plugin_b...')
+#3 C:\xampp\htdocs\wordpress-brady\wp-admin\plugins.php(60): activate_plugin('tapedb_plugin_b...', 'http://localhos...', false)
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php on line 7
+[05-Nov-2025 09:00:39 UTC] PHP Warning:  require_once(C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/app/entries/TableCreator.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php on line 7
+[05-Nov-2025 09:00:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/app/entries/TableCreator.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php:7
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\tapedb_plugin_backend.php(18): require_once()
+#1 C:\xampp\htdocs\wordpress-brady\wp-admin\includes\plugin.php(2387): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress-brady\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('tapedb_plugin_b...')
+#3 C:\xampp\htdocs\wordpress-brady\wp-admin\plugins.php(60): activate_plugin('tapedb_plugin_b...', 'http://localhos...', false)
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php on line 7
+[05-Nov-2025 09:00:40 UTC] PHP Warning:  require_once(C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/app/entries/TableCreator.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php on line 7
+[05-Nov-2025 09:00:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/app/entries/TableCreator.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php:7
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\tapedb_plugin_backend.php(18): require_once()
+#1 C:\xampp\htdocs\wordpress-brady\wp-admin\includes\plugin.php(2387): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress-brady\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('tapedb_plugin_b...')
+#3 C:\xampp\htdocs\wordpress-brady\wp-admin\plugins.php(60): activate_plugin('tapedb_plugin_b...', 'http://localhos...', false)
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php on line 7
+[05-Nov-2025 09:01:20 UTC] PHP Warning:  require_once(C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/app/entries/TableCreator.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php on line 7
+[05-Nov-2025 09:01:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/app/entries/TableCreator.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php:7
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\tapedb_plugin_backend.php(18): require_once()
+#1 C:\xampp\htdocs\wordpress-brady\wp-admin\includes\plugin.php(2387): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress-brady\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('tapedb_plugin_b...')
+#3 C:\xampp\htdocs\wordpress-brady\wp-admin\plugins.php(60): activate_plugin('tapedb_plugin_b...', 'http://localhos...', false)
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php on line 7
+[05-Nov-2025 09:01:21 UTC] PHP Warning:  require_once(C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/app/entries/TableCreator.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php on line 7
+[05-Nov-2025 09:01:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/app/entries/TableCreator.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php:7
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\tapedb_plugin_backend.php(18): require_once()
+#1 C:\xampp\htdocs\wordpress-brady\wp-admin\includes\plugin.php(2387): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress-brady\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('tapedb_plugin_b...')
+#3 C:\xampp\htdocs\wordpress-brady\wp-admin\plugins.php(60): activate_plugin('tapedb_plugin_b...', 'http://localhos...', false)
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php on line 7
+[05-Nov-2025 09:01:22 UTC] PHP Warning:  require_once(C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/app/entries/TableCreator.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php on line 7
+[05-Nov-2025 09:01:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/app/entries/TableCreator.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php:7
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\tapedb_plugin_backend.php(18): require_once()
+#1 C:\xampp\htdocs\wordpress-brady\wp-admin\includes\plugin.php(2387): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress-brady\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('tapedb_plugin_b...')
+#3 C:\xampp\htdocs\wordpress-brady\wp-admin\plugins.php(60): activate_plugin('tapedb_plugin_b...', 'http://localhos...', false)
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php on line 7
+[06-Nov-2025 03:08:13 UTC] Automatic updates starting...
+[06-Nov-2025 03:08:15 UTC] Automatic updates complete.
+[06-Nov-2025 04:48:22 UTC] PHP Parse error:  syntax error, unexpected token ")", expecting ";" in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\app\entries_controller.php on line 151
+[06-Nov-2025 04:48:32 UTC] PHP Parse error:  syntax error, unexpected token ")", expecting ";" in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\app\entries_controller.php on line 151
+[06-Nov-2025 04:55:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Tapedb\App\Entries\TableCreator::create_tables() in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\ActivationHook.php:10
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-brady\wp-includes\class-wp-hook.php(324): Tapedb\Helper\ActivationHook::activate(false)
+#1 C:\xampp\htdocs\wordpress-brady\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress-brady\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress-brady\wp-admin\includes\plugin.php(703): do_action('activate_tapedb...', false)
+#4 C:\xampp\htdocs\wordpress-brady\wp-admin\plugins.php(60): activate_plugin('tapedb_plugin_b...', 'http://localhos...', false)
+#5 {main}
+  thrown in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\ActivationHook.php on line 10
+[06-Nov-2025 05:01:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Tapedb\App\Entries\TableCreator::create_tables() in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\ActivationHook.php:10
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-brady\wp-includes\class-wp-hook.php(324): Tapedb\Helper\ActivationHook::activate(false)
+#1 C:\xampp\htdocs\wordpress-brady\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress-brady\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress-brady\wp-admin\includes\plugin.php(703): do_action('activate_tapedb...', false)
+#4 C:\xampp\htdocs\wordpress-brady\wp-admin\plugins.php(60): activate_plugin('tapedb_plugin_b...', 'http://localhos...', false)
+#5 {main}
+  thrown in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\ActivationHook.php on line 10
+[06-Nov-2025 05:01:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Tapedb\App\Entries\TableCreator::create_tables() in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\ActivationHook.php:10
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-brady\wp-includes\class-wp-hook.php(324): Tapedb\Helper\ActivationHook::activate(false)
+#1 C:\xampp\htdocs\wordpress-brady\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress-brady\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress-brady\wp-admin\includes\plugin.php(703): do_action('activate_tapedb...', false)
+#4 C:\xampp\htdocs\wordpress-brady\wp-admin\plugins.php(60): activate_plugin('tapedb_plugin_b...', 'http://localhos...', false)
+#5 {main}
+  thrown in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\ActivationHook.php on line 10
+[06-Nov-2025 05:01:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Tapedb\App\Entries\TableCreator::create_tables() in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\ActivationHook.php:10
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-brady\wp-includes\class-wp-hook.php(324): Tapedb\Helper\ActivationHook::activate(false)
+#1 C:\xampp\htdocs\wordpress-brady\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress-brady\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress-brady\wp-admin\includes\plugin.php(703): do_action('activate_tapedb...', false)
+#4 C:\xampp\htdocs\wordpress-brady\wp-admin\plugins.php(60): activate_plugin('tapedb_plugin_b...', 'http://localhos...', false)
+#5 {main}
+  thrown in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\ActivationHook.php on line 10
+[06-Nov-2025 05:01:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Tapedb\App\Entries\TableCreator::create_tables() in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\ActivationHook.php:10
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-brady\wp-includes\class-wp-hook.php(324): Tapedb\Helper\ActivationHook::activate(false)
+#1 C:\xampp\htdocs\wordpress-brady\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress-brady\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress-brady\wp-admin\includes\plugin.php(703): do_action('activate_tapedb...', false)
+#4 C:\xampp\htdocs\wordpress-brady\wp-admin\plugins.php(60): activate_plugin('tapedb_plugin_b...', 'http://localhos...', false)
+#5 {main}
+  thrown in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\ActivationHook.php on line 10
+[06-Nov-2025 05:01:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Tapedb\App\Entries\TableCreator::create_tables() in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\ActivationHook.php:10
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-brady\wp-includes\class-wp-hook.php(324): Tapedb\Helper\ActivationHook::activate(false)
+#1 C:\xampp\htdocs\wordpress-brady\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress-brady\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress-brady\wp-admin\includes\plugin.php(703): do_action('activate_tapedb...', false)
+#4 C:\xampp\htdocs\wordpress-brady\wp-admin\plugins.php(60): activate_plugin('tapedb_plugin_b...', 'http://localhos...', false)
+#5 {main}
+  thrown in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\ActivationHook.php on line 10
+[06-Nov-2025 05:08:27 UTC] Automatic updates starting...
+[06-Nov-2025 05:08:28 UTC] Automatic updates complete.
+[06-Nov-2025 05:35:21 UTC] PHP Warning:  require_once(C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/app/entries/TableCreator.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\tapedb_plugin_backend.php on line 17
+[06-Nov-2025 05:35:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/app/entries/TableCreator.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\tapedb_plugin_backend.php:17
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-brady\wp-admin\includes\plugin.php(2387): include_once()
+#1 C:\xampp\htdocs\wordpress-brady\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('tapedb_plugin_b...')
+#2 C:\xampp\htdocs\wordpress-brady\wp-admin\plugins.php(60): activate_plugin('tapedb_plugin_b...', 'http://localhos...', false)
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\tapedb_plugin_backend.php on line 17
+[06-Nov-2025 05:35:22 UTC] PHP Warning:  require_once(C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/app/entries/TableCreator.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\tapedb_plugin_backend.php on line 17
+[06-Nov-2025 05:35:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/app/entries/TableCreator.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\tapedb_plugin_backend.php:17
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-brady\wp-admin\includes\plugin.php(2387): include_once()
+#1 C:\xampp\htdocs\wordpress-brady\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('tapedb_plugin_b...')
+#2 C:\xampp\htdocs\wordpress-brady\wp-admin\plugins.php(60): activate_plugin('tapedb_plugin_b...', 'http://localhos...', false)
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\tapedb_plugin_backend.php on line 17
+[06-Nov-2025 05:35:24 UTC] PHP Warning:  require_once(C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/app/entries/TableCreator.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\tapedb_plugin_backend.php on line 17
+[06-Nov-2025 05:35:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/app/entries/TableCreator.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\tapedb_plugin_backend.php:17
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-brady\wp-admin\includes\plugin.php(2387): include_once()
+#1 C:\xampp\htdocs\wordpress-brady\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('tapedb_plugin_b...')
+#2 C:\xampp\htdocs\wordpress-brady\wp-admin\plugins.php(60): activate_plugin('tapedb_plugin_b...', 'http://localhos...', false)
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\tapedb_plugin_backend.php on line 17
+[06-Nov-2025 05:35:25 UTC] PHP Warning:  require_once(C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/app/entries/TableCreator.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\tapedb_plugin_backend.php on line 17
+[06-Nov-2025 05:35:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/app/entries/TableCreator.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\tapedb_plugin_backend.php:17
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-brady\wp-admin\includes\plugin.php(2387): include_once()
+#1 C:\xampp\htdocs\wordpress-brady\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('tapedb_plugin_b...')
+#2 C:\xampp\htdocs\wordpress-brady\wp-admin\plugins.php(60): activate_plugin('tapedb_plugin_b...', 'http://localhos...', false)
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\tapedb_plugin_backend.php on line 17
+[06-Nov-2025 05:35:26 UTC] PHP Warning:  require_once(C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/app/entries/TableCreator.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\tapedb_plugin_backend.php on line 17
+[06-Nov-2025 05:35:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/app/entries/TableCreator.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\tapedb_plugin_backend.php:17
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-brady\wp-admin\includes\plugin.php(2387): include_once()
+#1 C:\xampp\htdocs\wordpress-brady\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('tapedb_plugin_b...')
+#2 C:\xampp\htdocs\wordpress-brady\wp-admin\plugins.php(60): activate_plugin('tapedb_plugin_b...', 'http://localhos...', false)
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\tapedb_plugin_backend.php on line 17
+[06-Nov-2025 06:30:49 UTC] PHP Warning:  require_once(C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/helper/RolesCaps.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\tapedb_plugin_backend.php on line 20
+[06-Nov-2025 06:30:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/helper/RolesCaps.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\tapedb_plugin_backend.php:20
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-brady\wp-settings.php(545): include_once()
+#1 C:\xampp\htdocs\wordpress-brady\wp-config.php(106): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress-brady\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\wordpress-brady\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\tapedb_plugin_backend.php on line 20
+[06-Nov-2025 06:32:50 UTC] PHP Warning:  require_once(C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/helper/RoleLabels.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php on line 11
+[06-Nov-2025 06:32:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/helper/RoleLabels.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php:11
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\tapedb_plugin_backend.php(23): require_once()
+#1 C:\xampp\htdocs\wordpress-brady\wp-includes\class-wp-hook.php(324): {closure}('')
+#2 C:\xampp\htdocs\wordpress-brady\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\wordpress-brady\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wordpress-brady\wp-settings.php(578): do_action('plugins_loaded')
+#5 C:\xampp\htdocs\wordpress-brady\wp-config.php(106): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress-brady\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress-brady\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php on line 11
+[06-Nov-2025 06:39:51 UTC] PHP Warning:  require_once(C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/helper/RoleLabels.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php on line 11
+[06-Nov-2025 06:39:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/helper/RoleLabels.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php:11
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\tapedb_plugin_backend.php(27): require_once()
+#1 C:\xampp\htdocs\wordpress-brady\wp-settings.php(545): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress-brady\wp-config.php(106): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\wordpress-brady\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\wordpress-brady\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress-brady\index.php(17): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php on line 11
+[06-Nov-2025 06:40:04 UTC] PHP Warning:  require_once(C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/helper/RoleLabels.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php on line 11
+[06-Nov-2025 06:40:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/helper/RoleLabels.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php:11
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\tapedb_plugin_backend.php(27): require_once()
+#1 C:\xampp\htdocs\wordpress-brady\wp-settings.php(545): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress-brady\wp-config.php(106): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\wordpress-brady\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\wordpress-brady\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress-brady\index.php(17): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php on line 11
+[06-Nov-2025 06:40:11 UTC] PHP Warning:  require_once(C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/helper/RoleLabels.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php on line 11
+[06-Nov-2025 06:40:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/helper/RoleLabels.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php:11
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\tapedb_plugin_backend.php(27): require_once()
+#1 C:\xampp\htdocs\wordpress-brady\wp-settings.php(545): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress-brady\wp-config.php(106): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\wordpress-brady\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\wordpress-brady\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress-brady\index.php(17): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php on line 11
+[06-Nov-2025 06:40:31 UTC] PHP Warning:  require_once(C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/helper/RoleLabels.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php on line 11
+[06-Nov-2025 06:40:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend/helper/RoleLabels.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php:11
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\tapedb_plugin_backend.php(27): require_once()
+#1 C:\xampp\htdocs\wordpress-brady\wp-settings.php(545): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress-brady\wp-config.php(106): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\wordpress-brady\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\wordpress-brady\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress-brady\index.php(17): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\wordpress-brady\wp-content\plugins\tapedb_plugin_backend\helper\AllLoadingFiles.php on line 11
